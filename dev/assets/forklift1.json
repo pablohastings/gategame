@@ -1,0 +1,476 @@
+{"frames": {
+
+"forklift1/0000":
+{
+	"frame": {"x":78,"y":396,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0000":
+{
+	"frame": {"x":78,"y":396,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0001":
+{
+	"frame": {"x":617,"y":1,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0002":
+{
+	"frame": {"x":694,"y":1,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0003":
+{
+	"frame": {"x":771,"y":1,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0004":
+{
+	"frame": {"x":848,"y":1,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0005":
+{
+	"frame": {"x":925,"y":1,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0006":
+{
+	"frame": {"x":617,"y":94,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0007":
+{
+	"frame": {"x":617,"y":187,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0008":
+{
+	"frame": {"x":617,"y":280,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0009":
+{
+	"frame": {"x":617,"y":373,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0010":
+{
+	"frame": {"x":694,"y":94,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0011":
+{
+	"frame": {"x":771,"y":94,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0012":
+{
+	"frame": {"x":848,"y":94,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0013":
+{
+	"frame": {"x":925,"y":94,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0014":
+{
+	"frame": {"x":694,"y":187,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0015":
+{
+	"frame": {"x":694,"y":280,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0016":
+{
+	"frame": {"x":694,"y":373,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0017":
+{
+	"frame": {"x":771,"y":187,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0018":
+{
+	"frame": {"x":848,"y":187,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0019":
+{
+	"frame": {"x":925,"y":187,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0020":
+{
+	"frame": {"x":771,"y":280,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0021":
+{
+	"frame": {"x":771,"y":373,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0022":
+{
+	"frame": {"x":848,"y":280,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0023":
+{
+	"frame": {"x":925,"y":280,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0024":
+{
+	"frame": {"x":848,"y":373,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0025":
+{
+	"frame": {"x":925,"y":373,"w":75,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":47,"w":75,"h":91},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0026":
+{
+	"frame": {"x":540,"y":391,"w":75,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":46,"w":75,"h":92},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0027":
+{
+	"frame": {"x":540,"y":296,"w":75,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":45,"w":75,"h":93},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0028":
+{
+	"frame": {"x":540,"y":199,"w":75,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":43,"w":75,"h":95},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0029":
+{
+	"frame": {"x":540,"y":101,"w":75,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":42,"w":75,"h":96},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0030":
+{
+	"frame": {"x":540,"y":1,"w":75,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":40,"w":75,"h":98},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0031":
+{
+	"frame": {"x":463,"y":315,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":39,"w":75,"h":99},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0032":
+{
+	"frame": {"x":463,"y":212,"w":75,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":37,"w":75,"h":101},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0033":
+{
+	"frame": {"x":463,"y":108,"w":75,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":36,"w":75,"h":102},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0034":
+{
+	"frame": {"x":155,"y":383,"w":75,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":34,"w":75,"h":104},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0035":
+{
+	"frame": {"x":463,"y":1,"w":75,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":33,"w":75,"h":105},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0036":
+{
+	"frame": {"x":386,"y":335,"w":75,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":75,"h":106},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0037":
+{
+	"frame": {"x":386,"y":225,"w":75,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":30,"w":75,"h":108},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0038":
+{
+	"frame": {"x":386,"y":114,"w":75,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":29,"w":75,"h":109},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0039":
+{
+	"frame": {"x":386,"y":1,"w":75,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":27,"w":75,"h":111},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0040":
+{
+	"frame": {"x":309,"y":354,"w":75,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":26,"w":75,"h":112},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0041":
+{
+	"frame": {"x":309,"y":238,"w":75,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":24,"w":75,"h":114},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0042":
+{
+	"frame": {"x":309,"y":121,"w":75,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":23,"w":75,"h":115},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0043":
+{
+	"frame": {"x":232,"y":370,"w":75,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":21,"w":75,"h":117},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0044":
+{
+	"frame": {"x":309,"y":1,"w":75,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":20,"w":75,"h":118},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0045":
+{
+	"frame": {"x":232,"y":248,"w":75,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":18,"w":75,"h":120},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0046":
+{
+	"frame": {"x":232,"y":125,"w":75,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":17,"w":75,"h":121},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0047":
+{
+	"frame": {"x":232,"y":1,"w":75,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":16,"w":75,"h":122},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0048":
+{
+	"frame": {"x":155,"y":257,"w":75,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":14,"w":75,"h":124},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0049":
+{
+	"frame": {"x":155,"y":130,"w":75,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":13,"w":75,"h":125},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0050":
+{
+	"frame": {"x":155,"y":1,"w":75,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":11,"w":75,"h":127},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0051":
+{
+	"frame": {"x":78,"y":266,"w":75,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":75,"h":128},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0052":
+{
+	"frame": {"x":78,"y":134,"w":75,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":8,"w":75,"h":130},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0053":
+{
+	"frame": {"x":78,"y":1,"w":75,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":7,"w":75,"h":131},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0054":
+{
+	"frame": {"x":1,"y":275,"w":75,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":5,"w":75,"h":133},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0055":
+{
+	"frame": {"x":1,"y":139,"w":75,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":75,"h":134},
+	"sourceSize": {"w":95,"h":145}
+},
+"forklift1/lift_0056":
+{
+	"frame": {"x":1,"y":1,"w":75,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":75,"h":136},
+	"sourceSize": {"w":95,"h":145}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "forklift1.png",
+	"format": "RGBA8888",
+	"size": {"w":1001,"h":488},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:02a29a61d16d50ab82d90c59778b1580:9b1464586d8baad36e9d21447ed66a42:add5bb5013765def5ea55b14ebfd1ab7$"
+}
+}

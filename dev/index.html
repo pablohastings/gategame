@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>HOMEDEPOT TEST</title>
+        <meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+        
+     
+        <script src="js/lib/howler.min.js" type="text/javascript"></script>
+        <script src="js/lib/phaser.2.13.2.min.js" type="text/javascript"></script>
+        <script src="js/boot.js" type="text/javascript"></script>
+        <script src="js/preload.js" type="text/javascript"></script>
+        <script src="js/thegame.js" type="text/javascript"></script>
+        <script src="js/level2.js" type="text/javascript"></script>
+        <script src="js/level3.js" type="text/javascript"></script>
+
+        
+       
+        <style>
+            body {
+                margin: 0px;
+                padding: 0px;
+                font-family: Blender-Pro-Heavy;
+                font-size: 14px;
+                background-color: #ffffff;
+                color: #000000;
+            }
+            #hiddenfont{ display:none; }
+
+        </style>
+        <script>
+           
+            // variables for use in game can be set here
+           
+            //block console logs
+            console.log = function() {}
+
+            // functions called from game
+            function endgame(timeLevel1,attemptsLevel1,timeLevel2,attemptsLevel2,timeLevel3,attemptsLevel3){
+                console.log("endgame in DOM");
+                console.log("timeLevel1:" + timeLevel1);
+                console.log("attemptsLevel1:" + attemptsLevel1);
+                console.log("timeLevel2:" + timeLevel2);
+                console.log("attemptsLevel2:" + attemptsLevel2);
+                console.log("timeLevel3:" + timeLevel3);
+                console.log("attemptsLevel3:" + attemptsLevel3);
+
+                var redirect = getParameterByName('CompletedRedirectUrl');
+                console.log('redirect:' + redirect);
+                window.location.href = redirect;             
+            }
+
+            function getParameterByName(name, url) {
+                if (!url) url = window.location.href;
+                name = name.replace(/[\[\]]/g, '\\$&');
+                var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                    results = regex.exec(url);
+                if (!results) return null;
+                if (!results[2]) return '';
+                return decodeURIComponent(results[2].replace(/\+/g, ' '));
+            }
+        
+
+            // game setup.  canvas is injected into 'safety-game' div            
+            var game;
+			(function() {
+				game = new Phaser.Game(960, 540, Phaser.CANVAS, 'safety-game');
+
+				game.state.add("Boot",boot);
+				game.state.add("Preload",preload);
+                game.state.add("TheGame",theGame);
+                game.state.add("Level2",level2);
+                game.state.add("Level3",level3);             				
+                game.global = {soundtrackAudio: false};
+                game.state.start("Boot");
+
+			})();
+
+		</script>
+    </head>
+    <body>
+
+        <div id="safety-game"></div>
+    
+    </body>
+</html>
